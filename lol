@@ -1,4 +1,2 @@
-127.0.0.1 www.growtopia1.com
-127.0.0.1 www.growtopia2.com
-127.0.0.1 growtopia1.com
-127.0.0.1 growtopia2.com
+179.61.251.107 www.growtopia1.com
+179.61.251.107 www.growtopia2.com

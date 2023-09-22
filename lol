@@ -1,2 +1,2 @@
-gtprz.ddns.net growtopia1.com
-gtprz.ddns.net growtopia2.com
+127.0.0.1 growtopia1.com
+127.0.0.1 growtopia2.com

@@ -1,2 +1,2 @@
-gtprz.ddns.net growtopia1.com
-gtprz.ddns.net growtopia2.com
+gtprzanjg.ddns.net www.growtopia1.com
+gtprzanjg.ddns.net www.growtopia2.com
